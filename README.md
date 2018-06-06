@@ -4,6 +4,7 @@
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
 
+## Some of our AI tools:
 - Cognitive Services API demo: https://aka.ms/Xqc96i
 
 ![](http://datactivist.com/img/githubMic.png)
