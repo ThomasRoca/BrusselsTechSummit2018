@@ -10,5 +10,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 - Microsoft CNTK open source AI library: https://www.microsoft.com/en-us/cognitive-toolkit/
 - Microsoft AI framework: https://aka.ms/Werh2t
 
+### Microsoft AI school
+https://aischool.microsoft.com/learning-paths
 
 ![](http://datactivist.com/img/githubMic.png)
