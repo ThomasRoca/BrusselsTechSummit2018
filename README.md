@@ -9,5 +9,6 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 - Custom vision AI (train online a model with your own data): https://customvision.ai/
 - Microsoft CNTK open source AI library: https://www.microsoft.com/en-us/cognitive-toolkit/
 - Microsoft AI framework: https://aka.ms/Werh2t
-<br>
+
+
 ![](http://datactivist.com/img/githubMic.png)
