@@ -13,8 +13,8 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 ### Microsoft AI school:
 https://aischool.microsoft.com/learning-paths
 
-### Today's tech talk: AI for All
-https://aka.ms/F1lc80
+### Today's tech talk:
+AI for All - https://aka.ms/F1lc80
 
 
 ![](http://datactivist.com/img/githubMic.png)
