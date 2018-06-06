@@ -4,6 +4,11 @@
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
 
+
+### Today's tech talk:
+AI for All - https://aka.ms/F1lc80
+
+
 ### Some of our AI tools:
 - Cognitive Services API demo: https://aka.ms/Xqc96i
 - Custom vision AI (train online a model with your own data): https://customvision.ai/
@@ -13,8 +18,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 ### Microsoft AI school:
 https://aischool.microsoft.com/learning-paths
 
-### Today's tech talk:
-AI for All - https://aka.ms/F1lc80
+
 
 
 ![](http://datactivist.com/img/githubMic.png)
