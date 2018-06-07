@@ -12,7 +12,7 @@ AI for All - https://aka.ms/F1lc80
 - Cognitive Services API demo: https://aka.ms/Xqc96i
 
 ### Some of our AI tools:
-- Microsoft Cognitive API: https://docs.microsoft.com/en-us/azure/#pivot=products&panel=ai
+- Microsoft Cognitive API: https://azure.microsoft.com/en-us/services/cognitive-services/
 - Custom vision AI (train online a model with your own data): https://customvision.ai/
 - Microsoft CNTK open source AI library: https://www.microsoft.com/en-us/cognitive-toolkit/
 - Microsoft AI framework: https://aka.ms/Werh2t
